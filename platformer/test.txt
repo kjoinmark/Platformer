@@ -1,0 +1,23 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BB                                B                                  B
+BB                                B                                  B
+BB      D                         B                                  B
+BB   BBBBBBB                      B O  D                             B
+BB                                BBBBBBB                            B
+BB                          D     B                                  B
+BB                     BBBBBBBBBBBB                                  B
+BB           BB       BB          B         BBBB                     B
+BB                   BB           B                                  B
+BBBB                              B                          M       B
+BB                                B                  BBBBBBBBBBBBBBBBB
+BB                 M              B               BBBB               B
+BB     BBBB     BBBBBBBBB         B   BBBBB                          B
+BB                                B                                  B
+BB         0000                BBBB                                  B
+BB                                B       BBBBBB          BBB        B
+BBBB                              B                       BBB        B
+BB                                BBBBB               BBBBBBB        B
+BB              BB                                        BBB        B
+BB              BB                         BBBBBBBB       BBBB       B
+BB    B   P     BB    M    BB              BBBBBBBB  M    BBB  D D D B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB  

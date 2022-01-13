@@ -1,5 +1,7 @@
 # Platformer
-My project on OOP course 2019
+My project on OOP course in NSU
+
+Autumn 2019
 
 This game is about girl that travel with portals across underground to collect diamonds.
 Her goal is to alive and collect as many diamonds as she can. 
